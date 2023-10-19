@@ -9,6 +9,7 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
 [![Google Sites](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sites.google.com/estudante.sesisenai.org.br/antoniomurarazabala/home)
 
 ![Status do GitHub do antoniomurara19](https://github-readme-stats.vercel.app/api?username=antoniomurara19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomurara19&langs_count=8)
 
 ## Tecnologias que eu uso no meu dia a dia
 

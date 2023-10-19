@@ -10,7 +10,7 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
 
 ![Status do GitHub do antoniomurara19](https://github-readme-stats.vercel.app/api?username=antoniomurara19&show_icons=true&theme=radical)
 
-## Tecnologias que eu uso no meu dia-a-dia
+## Tecnologias que eu uso no meu dia a dia
 
 <div style="display: inline_block"><br/>
     <img style="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">

@@ -11,7 +11,7 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
 ![Status do GitHub do antoniomurara19](https://github-readme-stats.vercel.app/api?username=antoniomurara19&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antoniomurara19&langs_count=8)
 <br/><br/>
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=antoniomurara19)](https://github.com/antoniomurara19/github-readme-stats)
+
 
 ## Tecnologias que eu uso no meu dia a dia
 

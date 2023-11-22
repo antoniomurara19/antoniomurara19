@@ -15,7 +15,7 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
 
 ## Projetos curiosos
 
-[![Pelo Universo Ecommerce]](https://github.com/antoniomurara19/ecommerce_front_back)
+Pelo Universo Ecommerce(https://pelo-universo.netlify.app/)
 
 ## Tecnologias que eu uso no meu dia a dia
 

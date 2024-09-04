@@ -24,14 +24,13 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
     <img style="center" alt="HTML" src="https://img.shields.io/badge/HTML-FA8C05?style=for-the-badge&logo=html5&logoColor=brown">
     <img style="center" alt="CSS" src="https://img.shields.io/badge/CSS3-00134D?style=for-the-badge&logo=css3&logoColor=blue">
     <img style="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=black">
-    <img style="center" alt="SQL" src="https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1">
 </div><br/>
 
 Adoro criar, inventar e solucionar problemas de um jeito criativo e diferente. Desenvolver tecnologias para a solução de problemas contemporâneos é um dos meus grandes propósitos.
 
 <br/>
-## Últimos vídeos
-
-- [Analisando minha partida de xadrez contra um GM](https://www.youtube.com/watch?v=iji27jUMcGA&ab_channel=antoniomurarazabala)<br/>
-- [Minha ida fictícia à Charneca dos Baskerville](https://www.youtube.com/watch?v=8q-pAk3Yq3s&ab_channel=antoniomurarazabala)<br/>
-- [Teatro sobre conversão de graus para radianos](https://www.youtube.com/watch?v=bxLevJ77uqw&ab_channel=antoniomurarazabala)<br/>
+    ## Últimos vídeos
+    
+    - [Analisando minha partida de xadrez contra um GM](https://www.youtube.com/watch?v=iji27jUMcGA&ab_channel=antoniomurarazabala)<br/>
+    - [Minha ida fictícia à Charneca dos Baskerville](https://www.youtube.com/watch?v=8q-pAk3Yq3s&ab_channel=antoniomurarazabala)<br/>
+    - [Teatro sobre conversão de graus para radianos](https://www.youtube.com/watch?v=bxLevJ77uqw&ab_channel=antoniomurarazabala)<br/>

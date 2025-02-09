@@ -3,6 +3,8 @@
 ### 👋 Olá, sou Antônio Murara Zabala! 
 Sou um entusiasta da ciência e tecnologia com uma sede insaciável por aprender e criar. Minha jornada no mundo da programação começou quando eu descobri a mágica por trás das linhas de código (aproximadamente em 2022) e desde então, venho explorando as maravilhas do universo dos códigos.
 
+### 💡 Foco atual : Estudando para entrar no ITA.
+
 ### 💡 Curiosidade Infinita : 
 Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente explorando novas matérias, linguagens e áreas. Minha busca incessante por conhecimento me levou a mergulhar em projetos desafiadores e estudos em diversos campos.
 

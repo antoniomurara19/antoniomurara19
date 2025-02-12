@@ -18,7 +18,7 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
 
 ## Projetos curiosos
 
-[Pelo Universo Ecommerce](https://pelo-universo.netlify.app/)
+[Across the Universe](https://pelo-universo.netlify.app/)
 
 ## Tecnologias que eu uso no meu dia a dia
 

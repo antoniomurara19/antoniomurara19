@@ -17,9 +17,13 @@ Sempre acreditei que a curiosidade é a diferença de tudo. Estou constantemente
 
 ## Projetos curiosos
 
-[Jogo criado](https://biokiller.netlify.app/)
+[Jogo desenvolvido](https://biokiller.netlify.app/)
 
-[Ecommerce criado](https://pelo-universo.netlify.app/)
+[Ecommerce de viajens universais](https://pelo-universo.netlify.app/)
+
+[Simulação do Sistema Solar](https://fazenda-solar.netlify.app/)
+
+
 
 ## Tecnologias que eu uso no meu dia a dia
 
